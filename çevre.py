@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 11 18:25:47 2020
 
-@author: Abuzittin
+@author: Furkan Güven
 """
 import time
 

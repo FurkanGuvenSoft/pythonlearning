@@ -1,2 +1,2 @@
-# pythonlearning
-yaptığım ve güzel bulduğum python projeleri
+# python
+my own python project
